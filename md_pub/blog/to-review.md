@@ -3,7 +3,7 @@ title: To review
 date: 2020-06-11 18:15:27
 ---
 
- ![math](https://render.githubusercontent.com/render/math?math=%7E) 
+ ![math](https://www.zhihu.com/equation?tex=%7E) 
 
 <!--more-->
 

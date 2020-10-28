@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
     for i, part in enumerate(parts):
         if i & 1:
-            parts[i] = f'![math](https://render.githubusercontent.com/render/math?math={quote(part.strip())})'
+            parts[i] = f'![math](https://www.zhihu.com/equation?tex={quote(part.strip())})'
 
     text_out = "\n\n".join(parts)
 
@@ -22,7 +22,7 @@ if __name__ == "__main__":
         parts = re.split(r"\$(.*?)\$", line)
         for i, part in enumerate(parts):
             if i & 1:
-                parts[i] = f'![math](https://render.githubusercontent.com/render/math?math={quote(part.strip())})'
+                parts[i] = f'![math](https://www.zhihu.com/equation?tex={quote(part.strip())})'
         lines[lid] = ' '.join(parts)
     text_out = "\n".join(lines)
 

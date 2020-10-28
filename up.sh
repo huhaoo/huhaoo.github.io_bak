@@ -1,4 +1,4 @@
-bash latex2pic.sh
+bash latex.sh
 bash gen_index.sh
 git add *
 git commit -m "update"

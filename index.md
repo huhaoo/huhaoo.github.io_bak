@@ -12,6 +12,8 @@
 
 [md_pub/blog/整体二分解保序回归.md](md_pub/blog/整体二分解保序回归.md)
 
+[md_pub/blog/CF1270G.md](md_pub/blog/CF1270G.md)
+
 [md_pub/blog/IOI2020day1sol.md](md_pub/blog/IOI2020day1sol.md)
 
 [md_pub/blog/FWT.md](md_pub/blog/FWT.md)

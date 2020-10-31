@@ -36,6 +36,8 @@
 
 [md_pub/集训队作业2021/HL.md](md_pub/集训队作业2021/HL.md)
 
+[md_pub/集训队作业2021/IL.md](md_pub/集训队作业2021/IL.md)
+
 [md_pub/集训队作业2021/UI.md](md_pub/集训队作业2021/UI.md)
 
 [md_pub/集训队作业2021/SI.md](md_pub/集训队作业2021/SI.md)
@@ -45,6 +47,8 @@
 [md_pub/集训队作业2021/CK.md](md_pub/集训队作业2021/CK.md)
 
 [md_pub/集训队作业2021/QF.md](md_pub/集训队作业2021/QF.md)
+
+[md_pub/集训队作业2021/OL.md](md_pub/集训队作业2021/OL.md)
 
 [md_pub/集训队作业2021/PH.md](md_pub/集训队作业2021/PH.md)
 
@@ -57,6 +61,8 @@
 [md_pub/集训队作业2021/BJ.md](md_pub/集训队作业2021/BJ.md)
 
 [md_pub/集训队作业2021/DG.md](md_pub/集训队作业2021/DG.md)
+
+[md_pub/集训队作业2021/OG.md](md_pub/集训队作业2021/OG.md)
 
 [md_pub/集训队作业2021/BG.md](md_pub/集训队作业2021/BG.md)
 
@@ -85,6 +91,8 @@
 [md_pub/集训队作业2021/MI.md](md_pub/集训队作业2021/MI.md)
 
 [md_pub/集训队作业2021/IH.md](md_pub/集训队作业2021/IH.md)
+
+[md_pub/集训队作业2021/QE.md](md_pub/集训队作业2021/QE.md)
 
 [md_pub/集训队作业2021/LD.md](md_pub/集训队作业2021/LD.md)
 

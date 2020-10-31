@@ -1,3 +1,6 @@
+cd ~/blog_html
+
+
 bash latex.sh
 bash gen_index.sh
 git add *

@@ -1,8 +1,14 @@
+[md_pub/sol/ZJOI2015地震后的幻想乡.md](md_pub/sol/ZJOI2015地震后的幻想乡.md)
+
+[md_pub/sol/CTSC2018青蕈领主.md](md_pub/sol/CTSC2018青蕈领主.md)
+
+[md_pub/sol/CF1270G.md](md_pub/sol/CF1270G.md)
+
+[md_pub/sol/IOI2020day1sol.md](md_pub/sol/IOI2020day1sol.md)
+
 [md_pub/blog/积性函数求和.md](md_pub/blog/积性函数求和.md)
 
 [md_pub/blog/HNOI2020游记.md](md_pub/blog/HNOI2020游记.md)
-
-[md_pub/blog/ZJOI2015地震后的幻想乡.md](md_pub/blog/ZJOI2015地震后的幻想乡.md)
 
 [md_pub/blog/CSP2020游记.md](md_pub/blog/CSP2020游记.md)
 
@@ -10,13 +16,7 @@
 
 [md_pub/blog/math/一些恒等式.md](md_pub/blog/math/一些恒等式.md)
 
-[md_pub/blog/CTSC2018青蕈领主.md](md_pub/blog/CTSC2018青蕈领主.md)
-
 [md_pub/blog/整体二分解保序回归.md](md_pub/blog/整体二分解保序回归.md)
-
-[md_pub/blog/CF1270G.md](md_pub/blog/CF1270G.md)
-
-[md_pub/blog/IOI2020day1sol.md](md_pub/blog/IOI2020day1sol.md)
 
 [md_pub/blog/FWT.md](md_pub/blog/FWT.md)
 

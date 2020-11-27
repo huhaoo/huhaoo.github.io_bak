@@ -4,6 +4,8 @@
 
 [md_pub/blog/ZJOI2015地震后的幻想乡.md](md_pub/blog/ZJOI2015地震后的幻想乡.md)
 
+[md_pub/blog/CSP2020游记.md](md_pub/blog/CSP2020游记.md)
+
 [md_pub/blog/math/一些式子.md](md_pub/blog/math/一些式子.md)
 
 [md_pub/blog/math/一些恒等式.md](md_pub/blog/math/一些恒等式.md)
@@ -35,70 +37,6 @@
 [md_pub/blog/trick.md](md_pub/blog/trick.md)
 
 [md_pub/blog/任意基DFT.md](md_pub/blog/任意基DFT.md)
-
-[md_pub/集训队作业2021/HL.md](md_pub/集训队作业2021/HL.md)
-
-[md_pub/集训队作业2021/IL.md](md_pub/集训队作业2021/IL.md)
-
-[md_pub/集训队作业2021/UI.md](md_pub/集训队作业2021/UI.md)
-
-[md_pub/集训队作业2021/SI.md](md_pub/集训队作业2021/SI.md)
-
-[md_pub/集训队作业2021/DJ.md](md_pub/集训队作业2021/DJ.md)
-
-[md_pub/集训队作业2021/CK.md](md_pub/集训队作业2021/CK.md)
-
-[md_pub/集训队作业2021/QF.md](md_pub/集训队作业2021/QF.md)
-
-[md_pub/集训队作业2021/OL.md](md_pub/集训队作业2021/OL.md)
-
-[md_pub/集训队作业2021/PH.md](md_pub/集训队作业2021/PH.md)
-
-[md_pub/集训队作业2021/SD.md](md_pub/集训队作业2021/SD.md)
-
-[md_pub/集训队作业2021/UC.md](md_pub/集训队作业2021/UC.md)
-
-[md_pub/集训队作业2021/ML.md](md_pub/集训队作业2021/ML.md)
-
-[md_pub/集训队作业2021/BJ.md](md_pub/集训队作业2021/BJ.md)
-
-[md_pub/集训队作业2021/DG.md](md_pub/集训队作业2021/DG.md)
-
-[md_pub/集训队作业2021/OG.md](md_pub/集训队作业2021/OG.md)
-
-[md_pub/集训队作业2021/BG.md](md_pub/集训队作业2021/BG.md)
-
-[md_pub/集训队作业2021/ED.md](md_pub/集训队作业2021/ED.md)
-
-[md_pub/集训队作业2021/RB.md](md_pub/集训队作业2021/RB.md)
-
-[md_pub/集训队作业2021/BE.md](md_pub/集训队作业2021/BE.md)
-
-[md_pub/集训队作业2021/EE.md](md_pub/集训队作业2021/EE.md)
-
-[md_pub/集训队作业2021/NC.md](md_pub/集训队作业2021/NC.md)
-
-[md_pub/集训队作业2021/GK.md](md_pub/集训队作业2021/GK.md)
-
-[md_pub/集训队作业2021/MB.md](md_pub/集训队作业2021/MB.md)
-
-[md_pub/集训队作业2021/source.txt](md_pub/集训队作业2021/source.txt)
-
-[md_pub/集训队作业2021/DK.md](md_pub/集训队作业2021/DK.md)
-
-[md_pub/集训队作业2021/UJ.md](md_pub/集训队作业2021/UJ.md)
-
-[md_pub/集训队作业2021/FK.md](md_pub/集训队作业2021/FK.md)
-
-[md_pub/集训队作业2021/MI.md](md_pub/集训队作业2021/MI.md)
-
-[md_pub/集训队作业2021/IH.md](md_pub/集训队作业2021/IH.md)
-
-[md_pub/集训队作业2021/QE.md](md_pub/集训队作业2021/QE.md)
-
-[md_pub/集训队作业2021/LD.md](md_pub/集训队作业2021/LD.md)
-
-[md_pub/集训队作业2021/AA.md](md_pub/集训队作业2021/AA.md)
 
 [files/WC2020/5.pdf](files/WC2020/5.pdf)
 
